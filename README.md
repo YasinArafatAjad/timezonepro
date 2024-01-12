@@ -1,3 +1,3 @@
-# timezonepro
+# TimeZonePro
 
-https://yasinarafatajad.github.io/timezonepro/
+[View]{(https://yasinarafatajad.github.io/timezonepro/)
