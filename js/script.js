@@ -9,7 +9,7 @@ window.addEventListener("load", function(){
 // Profile Account
 var img = document.querySelectorAll('.acc');
 img.forEach(function(img){
-    img.src= './img/10.jpg'
+    img.src= './img/31.jpg'
 })
 // Reaction box
 var reaction = document.querySelectorAll('.reaction');
