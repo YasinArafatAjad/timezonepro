@@ -29,3 +29,12 @@ var viewed = document.querySelectorAll('.viewed');
 viewed.forEach(function(viewed){
     viewed.innerHTML= '<i class="fa-solid fa-eye">'
 });
+
+
+
+// var caption = document.querySelectorAll('p');
+// // console.log(caption);
+// if (caption.style.overflow == 'hidden'){
+//     caption.innerHTML= '<h1>lskfhkrw</h1>'
+// }
+

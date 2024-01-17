@@ -93,6 +93,10 @@ a{
     width:100%;
     pointer-events: none;
 }
+.card-box .caption {
+    max-height: 9em;
+    overflow:scroll;
+}
 .fa-eye{
     color: #383636;
 }
