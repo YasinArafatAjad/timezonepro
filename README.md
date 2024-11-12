@@ -1,3 +1,3 @@
 # TimeZonePro
 
-[View]{(https://yasinarafatajad.github.io/timezonepro/)
+## Link:  https://timezone-seven.vercel.app
